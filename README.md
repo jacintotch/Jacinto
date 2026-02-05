@@ -41,34 +41,29 @@
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
-🛡️ **SOC Analyst** | NUST Cyber-Team
+### 🛡️ **SOC Analyst** | NUST Cyber-Team
 **Feb 2025 - Present** | *Windhoek, Namibia*
-```python
-class SOCOperations:
-    def __init__(self):
-        self.responsibilities = {
-            "monitoring": "Real-time security event monitoring and alert analysis",
-            "incident_response": "Threat detection, investigation, and documentation",
-            "defensive_ops": "Deployed antivirus updates and security tools",
-            "risk_reduction": "Reduced malware risk through proactive defense",
-            "documentation": "Comprehensive incident reporting and analysis"
-        }
-    
-    def get_achievements(self):
-        return [
-            "🎯 Reduced malware incidents through strategic defensive tool deployment",
-            "📊 Analyzed and documented security alerts with 100% accuracy",
-            "🔐 Enhanced security posture through continuous monitoring",
-            "⚡ Responded to security incidents with rapid mitigation strategies"
-        ]
-    
-    def get_impact(self):
-        return "Strengthened organizational cybersecurity defense"
 
-# Active SOC Operations
-soc = SOCOperations()
-print(f"Impact: {soc.get_impact()}")
-```
+<div align="center">
+
+| 🔐 SOC OPERATIONS DOMAIN |
+|:------------------------:|
+| **Real-time Security Monitoring** |
+| **Incident Response & Investigation** |
+| **Defensive Tool Deployment** |
+| **Risk Reduction & Mitigation** |
+| **Comprehensive Documentation** |
+
+</div>
+
+**🎯 Operational Excellence:**
+
+✅ **Malware Defense** - Reduced incidents through strategic defensive tool deployment  
+✅ **Alert Analysis** - 100% accuracy in security alert documentation  
+✅ **Security Posture** - Enhanced through continuous monitoring and threat detection  
+✅ **Incident Response** - Rapid mitigation strategies minimizing impact  
+
+**📈 Security Impact:** Fortified organizational defense infrastructure and established robust incident response protocols.
 ---
 
 ### 🖥️ **System Administrator** | NUST Cyber-Team
