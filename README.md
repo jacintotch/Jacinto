@@ -2,14 +2,14 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> JACINTO TCHAYEVALA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=SOC+Analyst;Cybersecurity+Specialist;System+Administrator;Software+Developer;CTF+Champion;Security+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=SOC+Analyst;Cybersecurity+Specialist;System+Administrator;Software+Developer;CTF+Player;Security+Researcher" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacinto-tchayevala-75aa311aa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celestinojcj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacintotch)
 ![Profile Views](https://komarev.com/ghpvc/?username=jacintotch&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
-**📍 Based in Luanda, Angola | 🎓 BSc Cybersecurity @ NUST, Namibia**
+** 🎓 BSc Cybersecurity @ NUST, Namibia**
 
 </div>
 
@@ -18,8 +18,8 @@
 ## 🎯 PROFESSIONAL SUMMARY
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║  🛡️  SOC Analyst @ NUST Cyber-Team                           ║
-║  🖥️  Former System Administrator & Security Engineer         ║
+║  🛡️  NUST Cyber-Team                           ║
+║  🖥️  System Administrator & Security Engineer         ║
 ║  💻  Junior Software Developer & Security Researcher         ║
 ║  🏆  3rd Place - NUST Programming Competition 2024           ║
 ║  🥇  Best Team Defender - 11th Namibian Cyber Challenge      ║
@@ -27,7 +27,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-**Junior Software Developer** with robust expertise in **cybersecurity**, **system administration**, and **networked environments**. Proven track record in **security monitoring**, **incident response**, and **defensive security operations**. Specialized in building secure, efficient applications while maintaining critical infrastructure. Award-winning programmer and CTF competitor with hands-on experience in **threat detection**, **system hardening**, and **security automation**.
+**cybersecurity**, **system administration**, and **networked environments**. Proven track record in **security monitoring**, **incident response**, and **defensive security operations**. Specialized in building secure, efficient applications while maintaining critical infrastructure. Award-winning programmer and CTF competitor with hands-on experience in **threat detection**, **system hardening**, and **security automation**.
 
 ### 🚀 CURRENT FOCUS:
 - 🔍 **Security Monitoring**: Real-time threat detection and incident analysis at NUST SOC
@@ -41,9 +41,9 @@
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
-### 🛡️ **SOC Analyst** | NUST Cyber-Team
+### 🛡️ **SOC Analyst** | BRN Cyber-Team
 **Feb 2025 - Present** | *Windhoek, Namibia*
-```python
+
 responsibilities = {
     "monitoring": "Real-time security event monitoring and alert analysis",
     "incident_response": "Threat detection, investigation, and documentation",
@@ -51,7 +51,6 @@ responsibilities = {
     "risk_reduction": "Reduced malware risk through proactive defense",
     "documentation": "Comprehensive incident reporting and analysis"
 }
-```
 
 **Key Achievements:**
 - 🎯 Reduced malware incidents through strategic defensive tool deployment
