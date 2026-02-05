@@ -204,26 +204,30 @@ infrastructure = {
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jacintotch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacintotch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+### 📊 Performance Metrics
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jacintotch&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="70%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacintotch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Jacinto's GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacintotch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180em"/>
+</p>
 
-<br/>
+### 🔥 Contribution Streak
 
-<img src="https://github-profile-trophy.vercel.app/?username=jacintotch&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="90%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jacintotch&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" width="60%"/>
+</p>
 
-<br/>
+### 🏆 Achievement Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jacintotch&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="95%" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jacintotch&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="85%"/>
+</p>
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacintotch&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="90%"/>
+</p>
 
 </div>
 
@@ -337,10 +341,6 @@ print(me.get_current_work())
 
 <div align="center">
 
-### 📊 Profile Statistics
-
-![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20For%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
