@@ -204,25 +204,6 @@ infrastructure = {
 
 <div align="center">
 
-### 📊 Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacintotch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Jacinto's GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacintotch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180em"/>
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jacintotch&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" width="60%"/>
-</p>
-
-### 🏆 Achievement Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jacintotch&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="85%"/>
-</p>
-
 ### 📈 Contribution Activity Graph
 
 <p align="center">
