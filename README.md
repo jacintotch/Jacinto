@@ -211,87 +211,6 @@ infrastructure = {
 </p>
 
 </div>
-
----
-
-## 🎯 TECHNICAL HIGHLIGHTS
-
-<div align="center">
-```python
-class JacintoTchayevala:
-    def __init__(self):
-        self.name = "Jacinto Tchayevala"
-        self.role = "SOC Analyst & Software Developer"
-        self.location = "Luanda, Angola 🇦🇴"
-        self.education = "BSc Cybersecurity @ NUST"
-        
-    def get_current_work(self):
-        return {
-            "company": "NUST Cyber-Team",
-            "position": "SOC Analyst",
-            "focus": ["Security Monitoring", "Incident Response", "Threat Analysis"],
-            "tools": ["SIEM", "IDS/IPS", "Antivirus", "Log Analysis"]
-        }
-    
-    def get_skills(self):
-        return {
-            "languages": ["Java", "Python", "Bash", "JavaScript"],
-            "security": ["SOC Operations", "Threat Detection", "Secure Coding"],
-            "sysadmin": ["DNS", "DHCP", "AWS Route 53", "Linux"],
-            "soft_skills": ["Problem Solving", "Team Leadership", "Documentation"]
-        }
-    
-    def get_achievements(self):
-        return [
-            "🥉 3rd Place - NUST Programming Competition 2024",
-            "🥇 Best Team Defender - 11th Namibian Cyber Challenge 2025",
-            "🛡️ Active SOC Analyst with real-world experience",
-            "💻 Published multiple security and development projects"
-        ]
-
-# Initialize
-me = JacintoTchayevala()
-print(me.get_current_work())
-```
-
-</div>
-
----
-
-## 🤝 COLLABORATION & OPPORTUNITIES
-
-<div align="center">
-
-### 💡 OPEN TO COLLABORATE ON:
-
-🔐 **Cybersecurity Projects** - SOC tools, SIEM integration, threat hunting  
-🐍 **Security Automation** - Python scripts for log analysis and monitoring  
-🛡️ **Defensive Security** - Blue team tools and incident response platforms  
-💻 **Secure Application Development** - Building security-first software  
-🏴 **CTF & Security Research** - Competing and creating security challenges  
-📊 **System Administration Tools** - Infrastructure automation and monitoring  
-🌐 **Open Source Security** - Contributing to community security projects  
-🎓 **Mentoring & Teaching** - Sharing cybersecurity knowledge with students  
-
-</div>
-
----
-
-## 📫 LET'S CONNECT
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacinto-tchayevala-75aa311aa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celestinojcj@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacintotch)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jacintotch.github.io)
-
-**📱 WhatsApp:** +244 939 938 597
-
-</div>
-
----
-
 <div align="center">
 
 ## 💭 SECURITY PHILOSOPHY
@@ -325,3 +244,4 @@ print(me.get_current_work())
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20For%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
+
