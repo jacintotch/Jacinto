@@ -1,3 +1,7 @@
+<!-- ===================== -->
+<!-- 👋 HEADER -->
+<!-- ===================== -->
+
 <h1 align="center">👋 Hey, I'm Jacinto Tchayevala</h1>
 <h3 align="center">Cybersecurity Student | IT Support | CTF Enthusiast 🇳🇦</h3>
 
@@ -13,66 +17,126 @@
   </a>
 </div>
 
----
+<hr/>
 
-## 👨‍💻 About Me
+<!-- ===================== -->
+<!-- 👨‍💻 ABOUT ME -->
+<!-- ===================== -->
 
-🇳🇦 **Cybersecurity student at NUST (Semester 4 – ongoing)**  
-🖥 Member of the **BRN Technology Team** – IT support & systems troubleshooting  
+<h2>👨‍💻 About Me</h2>
 
-🔭 **Focus areas**
-- Information Systems Security  
-- Networking & Operating Systems  
-- Cryptography & Web Application Security  
+<p>
+🇳🇦 I’m <b>Jacinto Tchayevala</b>, a <b>Cybersecurity student at Namibia University of Science and Technology (NUST)</b>,
+currently in <b>Semester 4</b>.
+</p>
 
-⚡ **What I enjoy**
-- CTF challenges  
-- Security labs & tooling  
-- Programming & automation  
-- Continuous self-learning 🚀  
+<p>
+🖥 I’m part of the <b>BRN Technology Team</b>, assisting with IT support and systems troubleshooting.
+</p>
 
----
+<ul>
+  <li>🔐 Cybersecurity & Information Systems Security</li>
+  <li>🌐 Networking & Operating Systems</li>
+  <li>🧠 Cryptography & Web Application Security</li>
+  <li>⚡ CTFs, labs, and continuous learning</li>
+</ul>
 
-## 🛠 Tech Stack
+<hr/>
+
+<!-- ===================== -->
+<!-- 🛠 LANGUAGES & TOOLS -->
+<!-- ===================== -->
+
+<h2>🛠 Languages & Tools</h2>
+
+<h3>💻 Programming & Scripting</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,r,rust" />
+</div>
+<p>Java · Python · JavaScript · TypeScript · R · Rust</p>
+
+<h3>🌐 Web & Databases</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql,postgres,firebase" />
+</div>
+<p>HTML · CSS · React · Node.js · MySQL · PostgreSQL · Firebase</p>
+
+<h3>☁️ Cloud & DevOps</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,apache" />
+</div>
+<p>Docker · Kubernetes · AWS · Azure · Apache</p>
+
+<h3>🖥 Systems & Tools</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,androidstudio,anaconda,figma,notion" />
+</div>
+<p>Linux · Ubuntu · Git · GitHub · VS Code · Android Studio · Anaconda · Figma · Notion</p>
+
+<hr/>
+
+<!-- ===================== -->
+<!-- 🔥 GITHUB STATS -->
+<!-- ===================== -->
+
+<h2>🔥 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,rust,html,css,react,nodejs,mysql,postgresql,linux,docker,kubernetes,aws,azure,git,github,vscode" />
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-### 🔥 Contribution Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jacintotch&theme=dracula&hide_border=true" />
-</div>
-
-### 📈 Overall Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacintotch&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacintotch&layout=compact&theme=dracula&hide_border=true" height="150" />
-</div>
-
----
-
-## 🧠 Activity & Contributions
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jacintotch&theme=dracula" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jacintotch&show_icons=true&count_private=true&theme=dracula&hide_border=true"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacintotch&layout=compact&theme=dracula&hide_border=true"
+    height="150"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jacintotch&theme=dracula&utcOffset=2" />
+  <img
+    src="https://streak-stats.demolab.com?user=jacintotch&theme=dracula&hide_border=true"
+    height="200"
+  />
 </div>
 
----
+<hr/>
 
-## 👀 Profile Views
+<!-- ===================== -->
+<!-- 📊 ACTIVITY -->
+<!-- ===================== -->
+
+<h2>📊 Activity & Contributions</h2>
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jacintotch&theme=dracula"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jacintotch&theme=dracula&utcOffset=2"
+  />
+</div>
+
+<hr/>
+
+<!-- ===================== -->
+<!-- 👀 VISITOR COUNTER -->
+<!-- ===================== -->
+
+<h2>👀 Profile Views</h2>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jacintotch.jacintotch" />
 </div>
 
+<!-- ===================== -->
+<!-- 🌊 FOOTER -->
+<!-- ===================== -->
+
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt"
+  />
 </div>
