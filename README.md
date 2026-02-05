@@ -44,7 +44,7 @@
 ### 🛡️ **SOC Analyst** | NUST Cyber-Team
 **Feb 2025 - Present** | *Windhoek, Namibia*
 
-<div align="center">
+<div >
 
 | 🔐 SOC OPERATIONS DOMAIN |
 |:------------------------:|
