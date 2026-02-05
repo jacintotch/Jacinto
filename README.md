@@ -229,7 +229,7 @@ infrastructure = {
 
 <br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=00FF41&aColor=FFFFFF)
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
 <br/>
 
