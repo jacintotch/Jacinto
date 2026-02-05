@@ -332,3 +332,15 @@ print(me.get_current_work())
 **Built with 💚 by Jacinto Tchayevala | SOC Analyst | Cybersecurity Enthusiast**
 
 </div>
+
+---
+
+<div align="center">
+
+### 📊 Profile Statistics
+
+![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+</div>
