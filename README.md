@@ -18,8 +18,8 @@
 ## 🎯 PROFESSIONAL SUMMARY
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║  🛡️  NUST Cyber-Team                           ║
-║  🖥️  System Administrator & Security Engineer         ║
+║  🛡️  NUST Cyber-Team                                         ║
+║  🖥️  System Administrator & Security Engineer                ║
 ║  💻  Junior Software Developer & Security Researcher         ║
 ║  🏆  3rd Place - NUST Programming Competition 2024           ║
 ║  🥇  Best Team Defender - 11th Namibian Cyber Challenge      ║
@@ -62,18 +62,12 @@ responsibilities = {
 
 ### 🖥️ **System Administrator** | NUST Cyber-Team
 **Feb 2024 - Oct 2024** | *Windhoek, Namibia*
-```python
-infrastructure = {
-    "services": ["DNS", "DHCP", "AWS Route 53"],
-    "responsibilities": [
-        "System deployment and network maintenance",
-        "Proactive monitoring and troubleshooting",
-        "Backup management and disaster recovery",
-        "Process documentation and standardization"
-    ],
-    "impact": "Enhanced system reliability and uptime"
-}
-```
+
+| Category | Details |
+|----------|---------|
+| **🔧 Services Managed** | DNS, DHCP, AWS Route 53 |
+| **📋 Key Responsibilities** | • System deployment and network maintenance<br>• Proactive monitoring and troubleshooting<br>• Backup management and disaster recovery<br>• Process documentation and standardization |
+| **📈 Impact** | Enhanced system reliability and uptime |
 
 **Key Achievements:**
 - ⚙️ Deployed and maintained critical network infrastructure (DNS, DHCP, Route 53)
