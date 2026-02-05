@@ -16,7 +16,7 @@
 ## 🎯 ABOUT ME
 ```ascii
 ╔════════════════════════════════════════════════════════╗
-║  🛡️  Cybersecurity Student @ NUST (Semester 4)        ║
+║  🛡️  Cybersecurity Student @ NUST (Semester 5)        ║
 ║  💼  IT Support Specialist @ BRN Technology           ║
 ║  🏴  CTF Player & Security Enthusiast                 ║
 ║  🇳🇦  Based in Namibia                                 ║
