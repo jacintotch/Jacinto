@@ -2,240 +2,306 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> JACINTO TCHAYEVALA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;CTF+Champion;Ethical+Hacker;Security+Researcher;IT+Support+Engineer;System+Defender" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=SOC+Analyst;Cybersecurity+Specialist;System+Administrator;Software+Developer;CTF+Champion;Security+Researcher" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacinto-tchayevala-75aa311aa)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Bruno_Nerd_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brunonerd1662)
-![Profile Views](https://komarev.com/ghpvc/?username=jacintotch&color=brightgreen&style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celestinojcj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacintotch)
+![Profile Views](https://komarev.com/ghpvc/?username=jacintotch&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+
+**📍 Based in Luanda, Angola | 🎓 BSc Cybersecurity @ NUST, Namibia**
 
 </div>
 
 ---
 
-## 🎯 ABOUT ME
+## 🎯 PROFESSIONAL SUMMARY
 ```ascii
-╔════════════════════════════════════════════════════════╗
-║  🛡️  Cybersecurity Student @ NUST (Semester 5)        ║
-║  💼  IT Support Specialist @ BRN Technology           ║
-║  🏴  CTF Player & Security Enthusiast                 ║
-║  🇳🇦  Based in Namibia                                 ║
-║  🔐  Offensive & Defensive Security Specialist        ║
-║  🌐  Network Security & Cryptography Expert           ║
-╚════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║  🛡️  SOC Analyst @ NUST Cyber-Team                           ║
+║  🖥️  Former System Administrator & Security Engineer         ║
+║  💻  Junior Software Developer & Security Researcher         ║
+║  🏆  3rd Place - NUST Programming Competition 2024           ║
+║  🥇  Best Team Defender - 11th Namibian Cyber Challenge      ║
+║  🔐  Offensive & Defensive Security Specialist               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
-### 🚀 CURRENT MISSION:
-- 🔓 **Penetration Testing**: Hunting vulnerabilities in CTF challenges and practice labs
-- 🛡️ **Security Research**: Exploring advanced cryptographic techniques and protocols
-- 💻 **Application Development**: Building secure full-stack applications with React & Node.js
-- 🐍 **Security Automation**: Creating Python scripts for security testing and system hardening
-- 📚 **Continuous Learning**: Mastering cloud security (AWS, Azure) and container orchestration
-- 🏆 **CTF Competitions**: Active on HackTheBox, TryHackMe, and PicoCTF platforms
+**Junior Software Developer** with robust expertise in **cybersecurity**, **system administration**, and **networked environments**. Proven track record in **security monitoring**, **incident response**, and **defensive security operations**. Specialized in building secure, efficient applications while maintaining critical infrastructure. Award-winning programmer and CTF competitor with hands-on experience in **threat detection**, **system hardening**, and **security automation**.
 
-### 🎖️ ACHIEVEMENTS & CERTIFICATIONS:
-- 🥇 **Active CTF Competitor**: Ranked competitor on multiple CTF platforms
-- 🎓 **Academic Excellence**: Top performer in Cybersecurity program at NUST
-- 💼 **Real-World Experience**: IT infrastructure support and security implementation
-- 🔐 **Security Focused**: Specialized in network security, cryptography, and ethical hacking
-- 🏅 **Continuous Growth**: Pursuing industry certifications (CompTIA Security+, CEH)
-- 🌟 **Community Contributor**: Sharing CTF writeups and security knowledge
-- 🛠️ **Technical Leadership**: Mentoring peers in programming and security concepts
-
-🔥 **PASSION**: Breaking systems (ethically) to understand how to build them stronger  
-🌟 **PHILOSOPHY**: "Security is a mindset, not a feature"  
-🚀 **GOAL**: Becoming a world-class penetration tester and security researcher
-
----
-
-## 💻 TECHNICAL ARSENAL
-
-<div align="center">
-
-### ⚔️ PROGRAMMING LANGUAGES
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### 🛡️ CYBERSECURITY TOOLS
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-
-### 🌐 WEB DEVELOPMENT
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ DATABASES
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ CLOUD & DEVOPS
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-### 🖥️ OPERATING SYSTEMS & TOOLS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-</div>
-
----
-
-## 📈 GITHUB STATISTICS & ACTIVITY
-
-<div align="center">
-
-### 📊 PERFORMANCE METRICS
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacintotch&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacintotch&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=10" />
-
-### 🔥 CONTRIBUTION STREAK
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jacintotch&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&dates=FFFFFF)](https://git.io/streak-stats)
-
-### 🏆 ACHIEVEMENT TROPHIES
-[![trophy](https://github-profile-trophy.vercel.app/?username=jacintotch&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📈 CONTRIBUTION GRAPH
-[![Jacinto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jacintotch&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+### 🚀 CURRENT FOCUS:
+- 🔍 **Security Monitoring**: Real-time threat detection and incident analysis at NUST SOC
+- 🛡️ **Defensive Operations**: Deploying security tools, managing alerts, and incident documentation
+- 💻 **Secure Development**: Building applications with security-first mindset
+- 🐍 **Automation**: Creating Python and Bash scripts for security operations
+- 🏴 **CTF Competitions**: Active competitor and national-level defender
+- 📚 **Continuous Learning**: Advancing skills in threat modeling and cryptography
 
 ---
 
 ## 💼 PROFESSIONAL EXPERIENCE
+
+### 🛡️ **SOC Analyst** | NUST Cyber-Team
+**Feb 2025 - Present** | *Windhoek, Namibia*
 ```python
-class ProfessionalJourney:
+responsibilities = {
+    "monitoring": "Real-time security event monitoring and alert analysis",
+    "incident_response": "Threat detection, investigation, and documentation",
+    "defensive_ops": "Deployed antivirus updates and security tools",
+    "risk_reduction": "Reduced malware risk through proactive defense",
+    "documentation": "Comprehensive incident reporting and analysis"
+}
+```
+
+**Key Achievements:**
+- 🎯 Reduced malware incidents through strategic defensive tool deployment
+- 📊 Analyzed and documented security alerts with 100% accuracy
+- 🔐 Enhanced security posture through continuous monitoring
+- ⚡ Responded to security incidents with rapid mitigation strategies
+
+---
+
+### 🖥️ **System Administrator** | NUST Cyber-Team
+**Feb 2024 - Oct 2024** | *Windhoek, Namibia*
+```python
+infrastructure = {
+    "services": ["DNS", "DHCP", "AWS Route 53"],
+    "responsibilities": [
+        "System deployment and network maintenance",
+        "Proactive monitoring and troubleshooting",
+        "Backup management and disaster recovery",
+        "Process documentation and standardization"
+    ],
+    "impact": "Enhanced system reliability and uptime"
+}
+```
+
+**Key Achievements:**
+- ⚙️ Deployed and maintained critical network infrastructure (DNS, DHCP, Route 53)
+- 📈 Improved system reliability through proactive monitoring and maintenance
+- 🔄 Implemented robust backup strategies ensuring business continuity
+- 📝 Created comprehensive technical documentation for operational procedures
+
+---
+
+## 🏆 AWARDS & ACHIEVEMENTS
+
+<div align="center">
+
+| 🏅 Award | 🎯 Achievement | 📅 Year |
+|---------|---------------|---------|
+| 🥉 **3rd Place** | NUST Annual Programming Competition | 2024 |
+| 🥇 **Best Team Defender** | 11th Namibian National Cybersecurity Challenge | 2025 |
+| 🎓 **Academic Excellence** | BSc Cybersecurity @ NUST | Ongoing |
+| 🛡️ **SOC Operations** | Real-world security monitoring experience | 2025 |
+
+</div>
+
+---
+
+## 💻 TECHNICAL EXPERTISE
+
+<div align="center">
+
+### 🔧 PROGRAMMING & SCRIPTING
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛡️ CYBERSECURITY & SECURITY OPERATIONS
+![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-00C853?style=for-the-badge&logo=security&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-FF5722?style=for-the-badge&logo=alert&logoColor=white)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-D32F2F?style=for-the-badge&logo=shield&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-1976D2?style=for-the-badge&logo=key&logoColor=white)
+![Secure Coding](https://img.shields.io/badge/Secure_Coding-4CAF50?style=for-the-badge&logo=lock&logoColor=white)
+
+### 🖥️ SYSTEM ADMINISTRATION & NETWORKING
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![DNS](https://img.shields.io/badge/DNS-0078D6?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-326CE5?style=for-the-badge&logo=network&logoColor=white)
+![AWS Route 53](https://img.shields.io/badge/AWS_Route_53-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0071C5?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 📚 CORE COMPETENCIES
+![Data Structures](https://img.shields.io/badge/Data_Structures-512BD4?style=for-the-badge&logo=databricks&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=algolia&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00897B?style=for-the-badge&logo=ansible&logoColor=white)
+
+</div>
+
+---
+
+## 🎓 EDUCATION
+
+### 🎓 **Bachelor of Science in Cybersecurity**
+**Namibia University of Science and Technology (NUST)** | *Feb 2024 - Present*  
+📍 Windhoek, Namibia
+
+**Core Curriculum:**
+- 🔐 Network Security & Defense
+- 🛡️ Incident Response & Forensics
+- 🔑 Cryptography & Applied Mathematics
+- 💻 Secure Software Development
+- 🎯 Threat Modeling & Risk Assessment
+- 🔬 Penetration Testing & Ethical Hacking
+
+---
+
+### 🎓 **Computer Engineering**
+**Universidade José Eduardo dos Santos**  
+📍 Huambo, Angola
+
+---
+
+## 🌍 LANGUAGES
+
+<div align="center">
+
+| Language | Proficiency Level |
+|----------|------------------|
+| 🇬🇧 **English** | Advanced (C2) |
+| 🇵🇹 **Portuguese** | Proficient (C2) |
+
+</div>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+### 💼 **Point of Sale (POS) System**
+**Tech Stack:** Java, Swing, OOP Design Patterns  
+*Full-featured retail management system with inventory tracking and transaction processing*
+
+---
+
+### 👥 **User Management System**
+**Tech Stack:** Java / Python, Database Integration  
+*Secure authentication and authorization system with role-based access control*
+
+---
+
+### 📊 **Log Analysis Script**
+**Tech Stack:** Python, Regex, Data Processing  
+*Automated security log parser for threat detection and incident investigation*
+
+---
+
+### 🌐 **Portfolio Website**
+**Tech Stack:** HTML5, CSS3, JavaScript  
+*Responsive personal portfolio showcasing projects and technical skills*
+
+</div>
+
+---
+
+## 📈 GITHUB ANALYTICS
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jacintotch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacintotch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jacintotch&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="70%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jacintotch&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="90%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jacintotch&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="95%" />
+
+</div>
+
+---
+
+## 🎯 TECHNICAL HIGHLIGHTS
+
+<div align="center">
+```python
+class JacintoTchayevala:
     def __init__(self):
-        self.current_role = {
-            "position": "IT Support Specialist",
-            "company": "BRN Technology",
-            "responsibilities": [
-                "Network infrastructure maintenance & security",
-                "Technical troubleshooting & incident response",
-                "System administration & user support",
-                "Security policy implementation",
-                "Documentation & knowledge base management"
-            ],
-            "technologies": ["Windows Server", "Linux", "Networking", "Cloud Services"]
-        }
+        self.name = "Jacinto Tchayevala"
+        self.role = "SOC Analyst & Software Developer"
+        self.location = "Luanda, Angola 🇦🇴"
+        self.education = "BSc Cybersecurity @ NUST"
         
-        self.education = {
-            "degree": "BSc Cyber Security",
-            "institution": "NUST - Namibia University of Science and Technology",
-            "semester": 4,
-            "focus_areas": [
-                "Network Security & Penetration Testing",
-                "Cryptography & Information Assurance",
-                "Digital Forensics & Incident Response",
-                "Secure Software Development",
-                "Risk Management & Compliance"
-            ]
+    def get_current_work(self):
+        return {
+            "company": "NUST Cyber-Team",
+            "position": "SOC Analyst",
+            "focus": ["Security Monitoring", "Incident Response", "Threat Analysis"],
+            "tools": ["SIEM", "IDS/IPS", "Antivirus", "Log Analysis"]
         }
     
     def get_skills(self):
         return {
-            "offensive_security": ["Penetration Testing", "Exploit Development", "CTFs"],
-            "defensive_security": ["Network Monitoring", "IDS/IPS", "SIEM"],
-            "development": ["Full-Stack Web", "Security Tools", "Automation"],
-            "soft_skills": ["Problem Solving", "Team Collaboration", "Communication"]
+            "languages": ["Java", "Python", "Bash", "JavaScript"],
+            "security": ["SOC Operations", "Threat Detection", "Secure Coding"],
+            "sysadmin": ["DNS", "DHCP", "AWS Route 53", "Linux"],
+            "soft_skills": ["Problem Solving", "Team Leadership", "Documentation"]
         }
+    
+    def get_achievements(self):
+        return [
+            "🥉 3rd Place - NUST Programming Competition 2024",
+            "🥇 Best Team Defender - 11th Namibian Cyber Challenge 2025",
+            "🛡️ Active SOC Analyst with real-world experience",
+            "💻 Published multiple security and development projects"
+        ]
+
+# Initialize
+me = JacintoTchayevala()
+print(me.get_current_work())
 ```
 
----
-
-## 🎯 FEATURED PROJECTS
-
-<div align="center">
-
-### 🔐 Security & CTF Tools
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacintotch&repo=security-toolkit&theme=chartreuse-dark&hide_border=true&bg_color=0D1117)](https://github.com/jacintotch)
-
-### 💻 Web Applications
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacintotch&repo=fullstack-project&theme=chartreuse-dark&hide_border=true&bg_color=0D1117)](https://github.com/jacintotch)
-
 </div>
 
 ---
 
-## 🎮 CTF PLATFORMS & PRACTICE
-
-<div align="center">
-
-| Platform | Status | Focus Area |
-|----------|--------|------------|
-| 🎯 **HackTheBox** | Active | Pentesting & System Exploitation |
-| 🔓 **TryHackMe** | Active | Security Fundamentals & Labs |
-| 🏴 **PicoCTF** | Participant | Cryptography & Forensics |
-| 🌐 **OverTheWire** | Completed | Linux & Command Line |
-| 🔐 **CryptoHack** | Active | Cryptographic Challenges |
-
-</div>
-
----
-
-## 🎯 QUICK STATS & FUN FACTS
-
-<div align="center">
-
-### 📊 DEVELOPER PROFILE
-- ☕ **Coffee Consumed**: 2-3 cups/day (powered by caffeine)
-- 🌙 **Preferred Hours**: 10 PM - 3 AM (when the network is quiet)
-- 🎵 **Coding Playlist**: Cyberpunk, Lo-fi, Electronic
-- 🐛 **Debug Technique**: Print statements & network packet analysis
-- 💡 **Code Philosophy**: "Secure by design, not by accident"
-- 🎯 **Learning Style**: Breaking things to understand them
-- 🔧 **Favorite Tools**: Burp Suite, Wireshark, Python, Linux terminal
-
-### 🎭 SECURITY HUMOR
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark&hideBorder)
-
-</div>
-
----
-
-## 🤝 LET'S COLLABORATE
+## 🤝 COLLABORATION & OPPORTUNITIES
 
 <div align="center">
 
 ### 💡 OPEN TO COLLABORATE ON:
-- 🔐 **Cybersecurity projects** - penetration testing tools & security research
-- 🐍 **Security automation** - Python scripts for testing & monitoring
-- 🌐 **Secure web applications** - implementing security best practices
-- 🏴 **CTF challenges** - creating and solving security puzzles
-- 📚 **Open source security tools** - contributing to community projects
-- 🤖 **AI/ML in cybersecurity** - threat detection & anomaly analysis
-- 🔬 **Security research** - vulnerability discovery & responsible disclosure
-- 📖 **Technical writing** - security tutorials & CTF writeups
-- 🎓 **Mentoring** - helping others learn cybersecurity fundamentals
-- 🛡️ **Red team/Blue team exercises** - practical security training
 
-### 📫 CONNECT WITH ME:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacinto.tchayevala@example.com)
+🔐 **Cybersecurity Projects** - SOC tools, SIEM integration, threat hunting  
+🐍 **Security Automation** - Python scripts for log analysis and monitoring  
+🛡️ **Defensive Security** - Blue team tools and incident response platforms  
+💻 **Secure Application Development** - Building security-first software  
+🏴 **CTF & Security Research** - Competing and creating security challenges  
+📊 **System Administration Tools** - Infrastructure automation and monitoring  
+🌐 **Open Source Security** - Contributing to community security projects  
+🎓 **Mentoring & Teaching** - Sharing cybersecurity knowledge with students  
+
+</div>
+
+---
+
+## 📫 LET'S CONNECT
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacinto-tchayevala-75aa311aa)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Bruno_Nerd_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brunonerd1662)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celestinojcj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacintotch)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jacintotch.github.io)
+
+**📱 WhatsApp:** +244 939 938 597
 
 </div>
 
@@ -243,26 +309,26 @@ class ProfessionalJourney:
 
 <div align="center">
 
-## 💭 SECURITY WISDOM
+## 💭 SECURITY PHILOSOPHY
 
-*"The best defense is a good understanding of offense"* 🛡️
+*"The best defense is understanding the offense"* 🛡️
 
-*"In cybersecurity, paranoia is just good planning"* 🔐
+*"In cybersecurity, vigilance is not paranoia—it's professionalism"* 🔐
 
-*"Break it, fix it, secure it, repeat"* 🔄
-
----
-
-### ⭐ If you find my work valuable, star my repositories!
-
-### 🔒 Stay secure, stay curious, hack responsibly! 🔒
-
-![Snake animation](https://github.com/jacintotch/jacintotch/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+*"Code with security in mind, deploy with confidence"* 💻
 
 ---
 
-<div align="center">
-<sub>💻 Built with passion for cybersecurity | 🛡️ Defending the digital frontier | 🚀 Always learning, always growing</sub>
+### ⭐ If my work adds value, star my repositories!
+
+### 🔒 Defending systems | 💻 Building securely | 🚀 Learning continuously
+
+<br/>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=00FF41&aColor=FFFFFF)
+
+<br/>
+
+**Built with 💚 by Jacinto Tchayevala | SOC Analyst | Cybersecurity Enthusiast**
+
 </div>
