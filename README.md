@@ -41,23 +41,34 @@
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
-### 🛡️ **SOC Analyst** | BRN Cyber-Team
+🛡️ **SOC Analyst** | NUST Cyber-Team
 **Feb 2025 - Present** | *Windhoek, Namibia*
+```python
+class SOCOperations:
+    def __init__(self):
+        self.responsibilities = {
+            "monitoring": "Real-time security event monitoring and alert analysis",
+            "incident_response": "Threat detection, investigation, and documentation",
+            "defensive_ops": "Deployed antivirus updates and security tools",
+            "risk_reduction": "Reduced malware risk through proactive defense",
+            "documentation": "Comprehensive incident reporting and analysis"
+        }
+    
+    def get_achievements(self):
+        return [
+            "🎯 Reduced malware incidents through strategic defensive tool deployment",
+            "📊 Analyzed and documented security alerts with 100% accuracy",
+            "🔐 Enhanced security posture through continuous monitoring",
+            "⚡ Responded to security incidents with rapid mitigation strategies"
+        ]
+    
+    def get_impact(self):
+        return "Strengthened organizational cybersecurity defense"
 
-responsibilities = {
-    "monitoring": "Real-time security event monitoring and alert analysis",
-    "incident_response": "Threat detection, investigation, and documentation",
-    "defensive_ops": "Deployed antivirus updates and security tools",
-    "risk_reduction": "Reduced malware risk through proactive defense",
-    "documentation": "Comprehensive incident reporting and analysis"
-}
-
-**Key Achievements:**
-- 🎯 Reduced malware incidents through strategic defensive tool deployment
-- 📊 Analyzed and documented security alerts with 100% accuracy
-- 🔐 Enhanced security posture through continuous monitoring
-- ⚡ Responded to security incidents with rapid mitigation strategies
-
+# Active SOC Operations
+soc = SOCOperations()
+print(f"Impact: {soc.get_impact()}")
+```
 ---
 
 ### 🖥️ **System Administrator** | NUST Cyber-Team
